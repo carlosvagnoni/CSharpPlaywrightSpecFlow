@@ -6,6 +6,8 @@ This project provides a structure and tools for automated testing using C#, Play
 
 This suite of tests is specifically designed to validate and test features on the [demoblaze.com](https://www.demoblaze.com) website. You'll find feature files under the `Features` directory related to signup, login and adding products to the cart.
 
+![csharp2](https://github.com/carlosvagnoni/CSharpPlaywrightSpecFlow/assets/106275103/d08b936f-0700-4e3d-8c54-b4815d910489)
+
 ## Table of Contents 📑
 - [Requirements](#requirements-)
 - [Folder Structure](#folder-structure-)
