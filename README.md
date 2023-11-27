@@ -1,6 +1,6 @@
-# Automated Testing with C#, Playwright, and SpecFlow 🤖🅲#🎭
+# Automated Web Testing with C#, Playwright, and SpecFlow 🤖🅲#🎭
 
-This project provides a structure and tools for automated testing using C#, Playwright, and SpecFlow, following Behavior-Driven Development (BDD) best practices and employing the Page Object Model design pattern.
+This project provides a structure and tools for automated web testing using C#, Playwright, and SpecFlow, following Behavior-Driven Development (BDD) best practices and employing the Page Object Model design pattern.
 
 ## Testing demoblaze.com Features 🧪
 
