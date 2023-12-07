@@ -1,6 +1,9 @@
-# Automated Web Testing with C#, Playwright, and SpecFlow 🤖 🅲# 🎭
+# Automated Web Testing with C#, Playwright, and SpecFlow
+![Static Badge](https://img.shields.io/badge/C%23-logo?style=for-the-badge&logo=c%23&logoColor=rgb(151%2C%2020%2C%20190)&labelColor=white&color=rgb(22%2C%2027%2C%2034))
+![Static Badge](https://img.shields.io/badge/Playwright-logo?style=for-the-badge&logo=playwright&logoColor=rgb(214%2C%2083%2C%2072)&labelColor=rgb(46%2C%20173%2C%2051)&color=rgb(22%2C%2027%2C%2034))
+![Static Badge](https://img.shields.io/badge/SpecFlow-logo?style=for-the-badge&logo=cucumber&logoColor=black&labelColor=rgb(35%2C%20217%2C%20108)&color=rgb(22%2C%2027%2C%2034))
 
-This project provides a structure and tools for automated web testing using C#, Playwright, and SpecFlow, following Behavior-Driven Development (BDD) best practices and employing the Page Object Model design pattern.
+This project offers a framework and tools for automated web testing using C#, Playwright, and SpecFlow, following Behavior-Driven Development (BDD) best practices and employing the Page Object Model design pattern.
 
 ## Testing demoblaze.com Features 🧪
 
