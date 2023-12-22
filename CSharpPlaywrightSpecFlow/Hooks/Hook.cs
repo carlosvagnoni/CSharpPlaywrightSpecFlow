@@ -52,7 +52,7 @@ namespace CSharpPlaywrightSpecFlow.Hooks
         {
             if (context.TestError != null)
             {
-                byte[] screenshot = new byte[] { };
+                byte[] screenshot = Array.Empty<byte>();
                 if (Page != null)
                 {
                     screenshot = await Page.ScreenshotAsync();
